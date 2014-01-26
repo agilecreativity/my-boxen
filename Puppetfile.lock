@@ -1,0 +1,488 @@
+GITHUBTARBALL
+  remote: agilecoders/puppet-calibre
+  specs:
+    calibre (0.0.3)
+
+GITHUBTARBALL
+  remote: boxen/puppet-adium
+  specs:
+    adium (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-alfred
+  specs:
+    alfred (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-appcleaner
+  specs:
+    appcleaner (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-asciiio
+  specs:
+    asciiio (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-better_touch_tools
+  specs:
+    better_touch_tools (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-boxen
+  specs:
+    boxen (2.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-caffeine
+  specs:
+    caffeine (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-ccleaner
+  specs:
+    ccleaner (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-cinch
+  specs:
+    cinch (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-clojure
+  specs:
+    clojure (1.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-cyberduck
+  specs:
+    cyberduck (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dnsmasq
+  specs:
+    dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dpkg
+  specs:
+    dpkg (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-eclipse
+  specs:
+    eclipse (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-elasticsearch
+  specs:
+    elasticsearch (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-emacs
+  specs:
+    emacs (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-firefox
+  specs:
+    firefox (1.0.5)
+
+GITHUBTARBALL
+  remote: boxen/puppet-gcc
+  specs:
+    gcc (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-git
+  specs:
+    git (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-gitx
+  specs:
+    gitx (1.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-google_notifier
+  specs:
+    google_notifier (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-googledrive
+  specs:
+    googledrive (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-googleearth
+  specs:
+    googleearth (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-handbrake
+  specs:
+    handbrake (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-heroku
+  specs:
+    heroku (2.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-hipchat
+  specs:
+    hipchat (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-homebrew
+  specs:
+    homebrew (1.1.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-hub
+  specs:
+    hub (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-ibackup
+  specs:
+    ibackup (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-imagemagick
+  specs:
+    imagemagick (1.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-induction
+  specs:
+    induction (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.0.6)
+
+GITHUBTARBALL
+  remote: boxen/puppet-jenkins
+  specs:
+    jenkins (0.0.7)
+
+GITHUBTARBALL
+  remote: boxen/puppet-keepassx
+  specs:
+    keepassx (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-kindle
+  specs:
+    kindle (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-macvim
+  specs:
+    macvim (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-mou
+  specs:
+    mou (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-nginx
+  specs:
+    nginx (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-nodejs
+  specs:
+    nodejs (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-notational_velocity
+  specs:
+    notational_velocity (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-nvm
+  specs:
+    nvm (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (1.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pivotalbooster
+  specs:
+    pivotalbooster (1.0.3)
+
+GITHUBTARBALL
+  remote: boxen/puppet-postgresql
+  specs:
+    postgresql (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pow
+  specs:
+    pow (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pycharm
+  specs:
+    pycharm (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-python
+  specs:
+    python (1.1.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-redis
+  specs:
+    redis (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-repository
+  specs:
+    repository (2.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-ruby
+  specs:
+    ruby (5.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-skitch
+  specs:
+    skitch (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-skype
+  specs:
+    skype (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sourcetree
+  specs:
+    sourcetree (0.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sublime_text_2
+  specs:
+    sublime_text_2 (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sudo
+  specs:
+    sudo (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sysctl
+  specs:
+    sysctl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-things
+  specs:
+    things (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-tmux
+  specs:
+    tmux (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-toggl
+  specs:
+    toggl (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-transmission
+  specs:
+    transmission (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-tunnelblick
+  specs:
+    tunnelblick (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (2.0.5)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vim
+  specs:
+    vim (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vmware_fusion
+  specs:
+    vmware_fusion (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wget
+  specs:
+    wget (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wkhtmltopdf
+  specs:
+    wkhtmltopdf (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wunderlist
+  specs:
+    wunderlist (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-xpdf
+  specs:
+    xpdf (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-xquartz
+  specs:
+    xquartz (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-xtrafinder
+  specs:
+    xtrafinder (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
+
+GITHUBTARBALL
+  remote: cprice-puppet/puppetlabs-inifile
+  specs:
+    inifile (0.9.0)
+
+GITHUBTARBALL
+  remote: dieterdemeyer/puppet-colloquy
+  specs:
+    colloquy (1.0.0)
+
+GITHUBTARBALL
+  remote: dieterdemeyer/puppet-unarchiver
+  specs:
+    unarchiver (1.0.0)
+
+GITHUBTARBALL
+  remote: puppetlabs/puppetlabs-stdlib
+  specs:
+    stdlib (4.0.0)
+
+DEPENDENCIES
+  adium (= 1.0.1)
+  alfred (= 1.0.1)
+  appcleaner (= 1.0.0)
+  asciiio (= 1.0.2)
+  better_touch_tools (= 1.0.0)
+  boxen (= 2.0.0)
+  caffeine (= 1.0.0)
+  calibre (= 0.0.3)
+  ccleaner (= 1.0.1)
+  chrome (= 1.1.0)
+  cinch (= 1.0.0)
+  clojure (= 1.2.0)
+  colloquy (= 1.0.0)
+  cyberduck (= 1.0.0)
+  dnsmasq (= 1.0.0)
+  dpkg (= 1.0.0)
+  dropbox (= 1.1.0)
+  eclipse (= 1.0.0)
+  elasticsearch (= 1.0.0)
+  emacs (= 1.0.0)
+  firefox (= 1.0.5)
+  gcc (= 1.0.0)
+  git (= 1.0.0)
+  gitx (= 1.2.0)
+  google_notifier (= 1.0.1)
+  googledrive (= 1.0.2)
+  googleearth (= 1.0.0)
+  handbrake (= 1.0.0)
+  heroku (= 2.0.0)
+  hipchat (= 1.0.2)
+  homebrew (= 1.1.2)
+  hub (= 1.0.0)
+  ibackup (= 1.0.1)
+  imagemagick (= 1.2.0)
+  induction (= 1.0.0)
+  inifile (= 0.9.0)
+  iterm2 (= 1.0.2)
+  java (= 1.0.6)
+  jenkins (= 0.0.7)
+  keepassx (= 1.0.0)
+  kindle (= 1.0.0)
+  macvim (= 1.0.0)
+  mou (= 1.0.0)
+  nginx (= 1.1.0)
+  nodejs (= 1.0.0)
+  notational_velocity (= 1.1.0)
+  nvm (= 1.0.0)
+  osx (= 1.2.0)
+  pivotalbooster (= 1.0.3)
+  postgresql (= 1.0.0)
+  pow (= 1.0.0)
+  pycharm (= 1.0.1)
+  python (= 1.1.1)
+  redis (= 1.0.0)
+  repository (= 2.2.0)
+  ruby (= 5.0.2)
+  skitch (= 1.0.0)
+  skype (= 1.0.2)
+  sourcetree (= 0.0.2)
+  stdlib (= 4.0.0)
+  sublime_text_2 (= 1.1.0)
+  sudo (= 1.0.0)
+  sysctl (= 1.0.0)
+  things (= 1.0.0)
+  tmux (= 1.0.1)
+  toggl (= 1.0.2)
+  transmission (= 1.0.0)
+  tunnelblick (= 1.0.0)
+  unarchiver (= 1.0.0)
+  vagrant (= 2.0.5)
+  vim (= 1.0.2)
+  virtualbox (= 1.0.1)
+  vlc (= 1.0.0)
+  vmware_fusion (= 1.0.0)
+  wget (= 1.0.0)
+  wkhtmltopdf (= 1.0.0)
+  wunderlist (= 1.0.0)
+  xpdf (= 1.0.0)
+  xquartz (= 1.1.0)
+  xtrafinder (= 1.0.1)
+  zsh (= 1.0.0)
+
